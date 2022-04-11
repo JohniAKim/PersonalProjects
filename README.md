@@ -8,6 +8,8 @@ This repository holds personal and educational projects that I've done as part o
   - [Documentation Samples](https://github.com/JohniAKim/PersonalProjects/tree/main/DocSamples)
   - [Educational](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational)
     - [leetCode](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational/leetCode)
+      - [Algorithms](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational/leetCode/Algorithms)
+      - [Database](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational/leetCode/Database)
     - [Kaggle](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational/Kaggle)
   - [Health and Fitness](https://github.com/JohniAKim/PersonalProjects/tree/main/HealthFitness)
   - [Microsoft Access](https://github.com/JohniAKim/PersonalProjects/tree/main/MSAccess)
