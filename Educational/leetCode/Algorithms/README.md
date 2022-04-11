@@ -23,7 +23,7 @@ This repository holds leetCode problems in the Algorithms topic that I have work
 
 The projects here are categorized using the question number (Title) defined by leetCode.
 
-- [1. Two Sum]()
+- [1. Two Sum](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational/leetCode/Algorithms/0001_TwoSum)
 - [2. Add Two Numbers]()
 - 
 
