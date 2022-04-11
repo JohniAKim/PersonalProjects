@@ -23,8 +23,8 @@ This repository holds leetCode problems that I have worked through.
 
 The projects here are categorized using the Topics defined by leetCode.  I may change this later using some other logic if it makes sense to do that.
 
-- [Algorithms]()
-- [Database]()
+- [Algorithms](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational/leetCode/Algorithms)
+- [Database](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational/leetCode/Database)
 - [Shell]()
 - [Concurrency]()
 
