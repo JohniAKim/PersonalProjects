@@ -23,6 +23,7 @@ This repository holds projects that I've done as part of my continuing education
 - [Data Engineering]()
 - [Data Science]()
 - [Data Wrangling]()
+- [leetCode](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational/leetCode)
 
 Each category has their own variety of projects and should be accompanied by some form of documentation. 
 
