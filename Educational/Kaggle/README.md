@@ -6,12 +6,12 @@
 <br>
 
 [Personal Projects](https://github.com/JohniAKim/PersonalProjects)
-  - [Database Architecture and Modeling](https://github.com/JohniAKim/PersonalProjects/DBArchModeling)
-  - [Documentation Samples](https://github.com/JohniAKim/PersonalProjects/DocSamples)
-  - [Educational](https://github.com/JohniAKim/PersonalProjects/Educational)
-  - [Health and Fitness](https://github.com/JohniAKim/PersonalProjects/HealthFitness)
-  - [Microsoft Access](https://github.com/JohniAKim/PersonalProjects/MSAccess)
-  - [Visualizations](https://github.com/JohniAKim/PersonalProjects/Visualizations)
+  - [Database Architecture and Modeling](https://github.com/JohniAKim/PersonalProjects/tree/main/DBArchModeling)
+  - [Documentation Samples](https://github.com/JohniAKim/PersonalProjects/tree/main/DocSamples)
+  - [Educational](https://github.com/JohniAKim/PersonalProjects/tree/main/Educational)
+  - [Health and Fitness](https://github.com/JohniAKim/PersonalProjects/tree/main/HealthFitness)
+  - [Microsoft Access](https://github.com/JohniAKim/PersonalProjects/tree/main/MSAccess)
+  - [Visualizations](https://github.com/JohniAKim/PersonalProjects/tree/main/Visualizations)
 
 </details>
 
